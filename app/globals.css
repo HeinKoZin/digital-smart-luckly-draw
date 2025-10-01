@@ -28,10 +28,8 @@ body {
 /* Add this to globals.css */
 
 .bounce-delay {
-  animation: bounce 4s infinite;
-  animation-delay: 4s; /* delay before the animation starts */
+  animation: bounce 3.5s infinite;
 }
-
 
 /* Optional: customize bounce if needed */
 @keyframes bounce {

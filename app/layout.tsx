@@ -27,7 +27,7 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <div className="w-full min-h-screen flex justify-center items-center bg-slate-900">
+        <div className="w-full min-h-screen flex justify-center items-center bg-white">
           <div
             className="w-[430px] h-screen bg-cover bg-center flex flex-col justify-between items-center text-white relative"
             style={{ backgroundImage: "url('/bgimg.png')" }} // place fire-ballon image inside /public
